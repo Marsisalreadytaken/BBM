@@ -1,0 +1,74 @@
+{
+  "accounts": [
+    {
+      "name": "marty",
+      "email": "m@2.it",
+      "balance": 2012,
+      "password": "123",
+      "transactions": " Deposited 5,  Withdraw 1,  Deposited 1,  Deposited 1,  Deposited 1,  Deposited 4, "
+    },
+    {
+      "name": "me2",
+      "email": "m@5.it",
+      "balance": 222,
+      "password": "123",
+      "transactions": " Deposited 9,  Deposited 7,  Deposited 200,  Deposited 4,  Withdraw 1,  Deposited 2,  Deposited 1, "
+    },
+    {
+      "name": "mari3",
+      "email": "m@9.it",
+      "password": "123",
+      "balance": 5014,
+      "transactions": " Deposited 5000,  Deposited 15,  Withdraw 1, "
+    },
+    {
+      "name": "ag",
+      "email": "m@11.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "ar",
+      "email": "m@22.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "a",
+      "email": "m@99.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "ad",
+      "email": "m@88.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "t",
+      "email": "m@77.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "f",
+      "email": "m@66.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    },
+    {
+      "name": "finally",
+      "email": "m@55.it",
+      "password": "123",
+      "balance": 0,
+      "transactions": []
+    }
+  ]
+}
