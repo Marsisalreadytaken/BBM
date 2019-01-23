@@ -122,7 +122,7 @@ ui.default = `
         <div class="card-body">
           <h5 class="card-title">Welcome</h5>
           <p class="card-text">this is my bad bank</p>
-          <img src="1lacrim.gif" class="img-fluid" alt="Responsive image">
+          <img src="bank.png" class="img-fluid" alt="Responsive image">
     </div> 
 </div>  
 `;
@@ -131,8 +131,7 @@ ui.allData = `
     <h5>All Data in Store</h5>
     <button type="button" class="btn btn-secondary" onclick="allData()">Show All Data</button>
     <div id="allDataStatus"></div> 
-    <img src="1mmm.gif" class="img-fluid" alt="Responsive image">
-`;
+    `;
 
 ui.content = `
 <div class="card border-light mb-3" style="max-width: 80rem;">
